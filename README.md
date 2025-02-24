@@ -1,10 +1,26 @@
 # Network Intrusion Detection System (NIDS) ϟ
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-[![CMake](https://img.shields.io/badge/CMake-3.x-green.svg)](https://cmake.org/)
-[![GitHub Stars](https://img.shields.io/github/stars/0x0060/NIDS?style=social)](https://github.com/0x0060/NIDS)
-[![GitHub Issues](https://img.shields.io/github/issues/0x0060/NIDS)](https://github.com/0x0060/NIDS/issues)
+![216_1x_shots_so](https://github.com/user-attachments/assets/583417c4-2cb9-4102-a2af-07718e2f70a2)
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://badgen.net/badge/License/MIT/black?icon=github" alt="MIT License" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://badgen.net/badge/C%2B%2B/17/black?icon=cplusplus" alt="C++ 17" />
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://badgen.net/badge/CMake/3.x/black?icon=cmake" alt="CMake 3.x" />
+  </a>
+  <a href="https://github.com/0x0060/NIDS">
+    <img src="https://badgen.net/github/stars/0x0060/NIDS?color=black&icon=github" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/0x0060/NIDS/issues">
+    <img src="https://badgen.net/github/issues/0x0060/NIDS?color=black&icon=github" alt="GitHub Issues" />
+  </a>
+</p>
+
+## About
 
 A sophisticated Network Intrusion Detection System (NIDS) leveraging advanced threat intelligence, machine learning, and real-time monitoring capabilities to protect your network infrastructure.
 
