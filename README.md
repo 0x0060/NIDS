@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) 🛡️
+# Network Intrusion Detection System (NIDS) ϟ
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
@@ -8,7 +8,7 @@
 
 A sophisticated Network Intrusion Detection System (NIDS) leveraging advanced threat intelligence, machine learning, and real-time monitoring capabilities to protect your network infrastructure.
 
-## 🌟 Key Features
+## Key Features ϟ
 
 - **Advanced Threat Intelligence**
   - Real-time threat data integration
@@ -34,7 +34,7 @@ A sophisticated Network Intrusion Detection System (NIDS) leveraging advanced th
   - Automated evidence collection
   - Chain of custody maintenance
 
-## 📋 Prerequisites
+## Prerequisites ϟ
 
 - C++17 compatible compiler
 - CMake 3.x or higher
@@ -44,7 +44,7 @@ A sophisticated Network Intrusion Detection System (NIDS) leveraging advanced th
 - spdlog
 - libcurl
 
-## 🚀 Quick Start
+## Quick Start ϟ
 
 ```bash
 # Clone the repository
@@ -61,7 +61,7 @@ make
 ./nids
 ```
 
-## 📚 Documentation
+## Documentation ϟ
 
 Detailed documentation is available in the [docs](docs/) directory:
 
@@ -72,7 +72,7 @@ Detailed documentation is available in the [docs](docs/) directory:
 - [API Reference](docs/api-reference.md)
 - [Contributing Guidelines](docs/contributing.md)
 
-## 🔧 Configuration
+## Configuration ϟ
 
 The system can be configured through the `config/nids_config.json` file. See the [Configuration Guide](docs/configuration.md) for detailed settings.
 
@@ -94,7 +94,7 @@ The system can be configured through the `config/nids_config.json` file. See the
 ```
 </details>
 
-## 🛠️ Architecture
+## Architecture ϟ
 
 The system is built with a modular architecture:
 
@@ -106,22 +106,22 @@ graph TD
     D --> E[Visualization]
 ```
 
-## 🤝 Contributing
+## Contributing ϟ
 
 Contributions are welcome! Please read our [Contributing Guidelines](docs/contributing.md) before submitting pull requests.
 
-## 📄 License
+## License ϟ
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments ϟ
 
 - [OpenSSL](https://www.openssl.org/)
 - [Boost](https://www.boost.org/)
 - [nlohmann/json](https://github.com/nlohmann/json)
 - [spdlog](https://github.com/gabime/spdlog)
 
-## 📞 Support
+## Support ϟ
 
 For support, please open an issue in the GitHub issue tracker or contact the maintainers.
 
