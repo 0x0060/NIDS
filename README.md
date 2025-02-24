@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) ϟ
+# Network Intrusion Detection System
 
 ![216_1x_shots_so](https://github.com/user-attachments/assets/583417c4-2cb9-4102-a2af-07718e2f70a2)
 
