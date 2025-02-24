@@ -1,26 +1,19 @@
+<div align="center">
+
 # Network Intrusion Detection System
 
 ![216_1x_shots_so](https://github.com/user-attachments/assets/583417c4-2cb9-4102-a2af-07718e2f70a2)
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://badgen.net/badge/License/MIT/black?icon=github" alt="MIT License" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://badgen.net/badge/C%2B%2B/17/black?icon=cplusplus" alt="C++ 17" />
-  </a>
-  <a href="https://cmake.org/">
-    <img src="https://badgen.net/badge/CMake/3.x/black?icon=cmake" alt="CMake 3.x" />
-  </a>
-  <a href="https://github.com/0x0060/NIDS">
-    <img src="https://badgen.net/github/stars/0x0060/NIDS?color=black&icon=github" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/0x0060/NIDS/issues">
-    <img src="https://badgen.net/github/issues/0x0060/NIDS?color=black&icon=github" alt="GitHub Issues" />
-  </a>
-</p>
+[![](https://img.shields.io/badge/%20-mit-253540?style=for-the-badge&labelColor=a9becd&logo=github)](https://raw.githubusercontent.com/0x0060/NIDS/refs/heads/main/LICENSE)
+![](https://img.shields.io/badge/%20-C%2B%2B%2017-253540?style=for-the-badge&labelColor=a9becd&logo=github)
+![](https://img.shields.io/badge/%20-CMake%203.x-253540?style=for-the-badge&labelColor=a9becd&logo=c%2B%2B)
+[![](https://img.shields.io/badge/%20-stars-253540?style=for-the-badge&labelColor=a9becd&logo=github)](https://github.com/0x0060/NIDS/stargazers)
+[![](https://img.shields.io/badge/%20-issues-253540?style=for-the-badge&labelColor=a9becd&logo=github)](https://github.com/0x0060/NIDS/issues)
 
-## About
+
+</div>
+
+## About ϟ
 
 A sophisticated Network Intrusion Detection System (NIDS) leveraging advanced threat intelligence, machine learning, and real-time monitoring capabilities to protect your network infrastructure.
 
